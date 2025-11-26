@@ -1,0 +1,17 @@
+geopandas
+shapely
+fiona
+pyproj
+owslib
+requests
+lxml
+geojson
+contextily
+rioxarray
+numpy
+scipy
+matplotlib
+tqdm
+jupyterlab
+ipykernel
+buildingregulariser
