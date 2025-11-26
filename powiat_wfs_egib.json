@@ -1,0 +1,3034 @@
+{
+  "1206": {
+    "name": "Starosta Powiatu Krakowskiego",
+    "url": "https://wms.powiat.krakow.pl:1518/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2471": {
+    "name": "Prezydent Miasta Piekary Śląskie",
+    "url": "https://wms.sip.piekary.pl/piekary-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2061": {
+    "name": "Prezydent Miasta Białegostoku",
+    "url": "https://webewid-wms.um.bialystok.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0213": {
+    "name": "Starosta Milicki",
+    "url": "https://milicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2402": {
+    "name": "Starosta Bielski",
+    "url": "https://bielski-ows.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0220": {
+    "name": "Starosta Trzebnicki",
+    "url": "https://trzebnicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1811": {
+    "name": "Starosta Powiatu Mieleckiego",
+    "url": "https://mielec.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3003": {
+    "name": "Starosta Powiatu Gnieźnieńskiego",
+    "url": "https://wms.geodezjagniezno.pl/gniezno-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3030": {
+    "name": "Starosta Wrzesiński",
+    "url": "https://wms.wrzesnia.powiat.pl/wrzesnia-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1465": {
+    "name": "Prezydent Miasta Stołecznego Warszawy",
+    "url": "https://wms2.um.warszawa.pl/geoserver/wfs/wfs",
+    "version": "2.0.0",
+    "layer_buildings": "wfs:budynki",
+    "layer_parcels": "wfs:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0809": {
+    "name": "Starosta Zielonogórski",
+    "url": "https://giportal.powiat-zielonogorski.pl/zielonagora-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1437": {
+    "name": "Starosta Żuromiński",
+    "url": "https://zuromin-powiat.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1606": {
+    "name": "Starosta Namysłowski",
+    "url": "https://iegib.namyslow.pl/cgi-bin/namyslow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2403": {
+    "name": "Starosta Cieszyński",
+    "url": "https://cieszyn.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "121304_3": {
+    "name": "Burmistrz Gminy Kęty",
+    "url": "https://kety.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2002": {
+    "name": "Starosta Powiatu Białostockiego",
+    "url": "https://bialystok.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2601": {
+    "name": "Starosta Powiatu Buskiego",
+    "url": "https://geodezja.powiat.busko.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0464": {
+    "name": "Prezydent Miasta Włocławek",
+    "url": "https://geoportal.wloclawek.eu/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0808": {
+    "name": "Starosta Świebodziński",
+    "url": "https://giportal2.powiat.swiebodzin.pl/swiebodzin-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0216": {
+    "name": "Starosta Polkowicki",
+    "url": "https://polkowicki-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2472": {
+    "name": "Prezydent Miasta Ruda Śląska",
+    "url": "https://rudaslaska.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3019": {
+    "name": "Starosta Pilski",
+    "url": "https://ikerg.powiat.pila.pl/pila-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1661": {
+    "name": "Prezydent Miasta Opola",
+    "url": "https://wms.um.opole.pl/opole-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1809": {
+    "name": "Starosta Powiatu Lubaczowskiego",
+    "url": "https://lubaczow.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1817": {
+    "name": "Starosta Powiatu Sanockiego",
+    "url": "https://sanocki.webewid.pl:8443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1814": {
+    "name": "Starosta Przeworski",
+    "url": "https://sip.powiatprzeworsk.pl:4443/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1802": {
+    "name": "Starosta Powiatu Brzozowskiego",
+    "url": "https://brzozowski.webewid.pl:4443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1601": {
+    "name": "Starosta Powiatu Brzeskiego",
+    "url": "https://imapa.brzeg-powiat.pl/brzeg-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1605": {
+    "name": "Starosta Powiatu Krapkowickiego",
+    "url": "https://ikerg.powiatkrapkowicki.pl/krapkowice-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3002": {
+    "name": "Starosta Powiatu Czarnkowsko-Trzcianeckiego",
+    "url": "https://wms.czarnkowsko-trzcianecki.pl/czarnkowskotrzcianecki-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0811": {
+    "name": "Starosta Powiatu Żarskiego",
+    "url": "https://zary.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1861": {
+    "name": "Prezydent Miasta Krosna",
+    "url": "https://krosno-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1609": {
+    "name": "Starosta Opolski",
+    "url": "https://geodezja.powiatopolski.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1604": {
+    "name": "Starosta Kluczborski",
+    "url": "https://ikerg.powiatkluczborski.eu/kluczbork-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1813": {
+    "name": "Starosta Przemyski",
+    "url": "https://powiat-przemysl.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0462": {
+    "name": "Prezydent Grudziądza",
+    "url": "https://geoportal.grudziadz.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2408": {
+    "name": "Starosta Powiatu Mikołowskiego",
+    "url": "https://mapa.mikolowski.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2479": {
+    "name": "Prezydent Miasta Żory",
+    "url": "https://geoportal.zory.pl/usluga/iip/wfs/geodezja",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2469": {
+    "name": "Prezydent Miasta Katowice",
+    "url": "https://emapa.katowice.eu/arcgis/services/wms_egib_gugik/MapServer/WFSServer",
+    "version": "2.0.0",
+    "layer_buildings": "wms_egib_gugik:budynki",
+    "layer_parcels": "wms_egib_gugik:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1815": {
+    "name": "Starosta Ropczycko-Sędziszowski",
+    "url": "https://spropczyce.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1819": {
+    "name": "Starosta Strzyżowski",
+    "url": "https://strzyzowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1608": {
+    "name": "Starosta Oleski",
+    "url": "https://giportal.powiatoleski.pl/olesno-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1818": {
+    "name": "Starosta Powiatu Stalowowolskiego",
+    "url": "https://stalowawola.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2661": {
+    "name": "Prezydent Miasta Kielce",
+    "url": "https://wms.kielce.eu/kielce-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1801": {
+    "name": "Starosta Bieszczadzki",
+    "url": "https://bieszczadzki-wms.webewid.pl:4434/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0410": {
+    "name": "Starosta Nakielski",
+    "url": "https://nakielski.webewid.pl:62627/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1812": {
+    "name": "Starosta Powiatu Niżańskiego",
+    "url": "https://powiat-nisko.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0403": {
+    "name": "Starosta Powiatu Bydgoskiego",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0403",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0461": {
+    "name": "Prezydent Miasta Bydgoszczy",
+    "url": "https://e-uslugi.mpg.bydgoszcz.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0414": {
+    "name": "Starosta Powiatu Świeckiego",
+    "url": "https://wms.csw.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2213": {
+    "name": "Starosta Starogardzki",
+    "url": "https://wms.powiatstarogard.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1602": {
+    "name": "Starosta Głubczycki",
+    "url": "https://ikerg.powiatglubczycki.pl/cgi-bin/glubczyce-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0419": {
+    "name": "Starosta Żniński",
+    "url": "https://zninski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0405": {
+    "name": "Starosta Golubsko-Dobrzyński",
+    "url": "https://golubsko-dobrzynski-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1820": {
+    "name": "Starosta Powiatu Tarnobrzeskiego",
+    "url": "https://tarnobrzeski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0261": {
+    "name": "Prezydent Miasta Jeleniej Góry",
+    "url": "https://geoportal.jeleniagora.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0416": {
+    "name": "Starosta Tucholski",
+    "url": "https://tucholski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3006": {
+    "name": "Starosta Jarociński",
+    "url": "https://ikerg.powiat-jarocinski.pl/jarocin-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0411": {
+    "name": "Starosta Radziejowski",
+    "url": "https://radziejow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3025": {
+    "name": "Starosta Powiatu Średzkiego",
+    "url": "https://wms.powiatsredzki.pl/srodawlkp-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1863": {
+    "name": "Prezydent Miasta Rzeszowa",
+    "url": "https://osrodek.erzeszow.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0408": {
+    "name": "Starosta Lipnowski",
+    "url": "https://lipno.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2812": {
+    "name": "Starosta Powiatu Nowomiejskiego",
+    "url": "https://powiat-nowomiejski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0463": {
+    "name": "Prezydent Miasta Torunia",
+    "url": "https://mtorun-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1804": {
+    "name": "Starosta Powiatu Jarosławskiego",
+    "url": "https://jaroslawski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2607": {
+    "name": "Starosta Ostrowiecki",
+    "url": "https://ostrowiec.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1810": {
+    "name": "Starosta Łańcucki",
+    "url": "https://lancut.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2611": {
+    "name": "Starosta Powiatu Starachowickiego",
+    "url": "https://starachowice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2803": {
+    "name": "Starosta Działdowski",
+    "url": "https://powiatdzialdowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0412": {
+    "name": "Starosta Powiatu Rypińskiego",
+    "url": "http://rypin.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0404": {
+    "name": "Starosta Powiatu Chełmińskiego",
+    "url": "https://chelminski.webewid.pl:44316/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0417": {
+    "name": "Starosta Wąbrzeski",
+    "url": "https://wabrzezno.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1607": {
+    "name": "Starosta Powiatu Nyskiego",
+    "url": "https://wms-egib.powiat.nysa.pl/nysa-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3020": {
+    "name": "Starosta Powiatu Pleszewskiego",
+    "url": "https://wms.geo.net.pl/pleszew-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1808": {
+    "name": "Starosta Leżajski",
+    "url": "https://lezajsk.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0206": {
+    "name": "Starosta Karkonoski",
+    "url": "https://wms.podgik.jgora.pl/jeleniagora-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2463": {
+    "name": "Prezydent Miasta Chorzów",
+    "url": "https://e-odgik.chorzow.eu/arcgis/services/wfs/chorzow_egib_publ/MapServer/WFSServer",
+    "version": "2.0.0",
+    "layer_buildings": "wfs_chorzow_egib_publ:budynki",
+    "layer_parcels": "wfs_chorzow_egib_publ:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1610": {
+    "name": "Starosta Prudnicki",
+    "url": "https://ikerg2.powiatprudnicki.pl/prudnik-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1412": {
+    "name": "Starosta Miński",
+    "url": "https://wms.epodgik.pl/cgi-bin/minsk",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3021": {
+    "name": "Starosta Poznański",
+    "url": "https://ikerg.podgik.poznan.pl/wms-poznanski",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3215": {
+    "name": "Starosta Szczecinecki",
+    "url": "https://szczecinecki-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0409": {
+    "name": "Starosta Mogileński",
+    "url": "https://mogilenski.webewid.pl:4444/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2811": {
+    "name": "Starosta Powiatu Nidzickiego",
+    "url": "https://powiatnidzicki.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0862": {
+    "name": "Prezydent Miasta Zielona Góra",
+    "url": "https://imapa.um.zielona-gora.pl/zielona-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1805": {
+    "name": "Starosta Jasielski",
+    "url": "https://jasielski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2605": {
+    "name": "Starosta Powiatu Koneckiego",
+    "url": "https://konskie.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2461": {
+    "name": "Prezydent Miasta Bielska-Białej",
+    "url": "https://ikerg.bielsko-biala.pl/bielsko-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1806": {
+    "name": "Starosta Kolbuszowski",
+    "url": "https://kolbuszowa.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1816": {
+    "name": "Starosta Rzeszowski",
+    "url": "https://powiatrzeszowski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0210": {
+    "name": "Starosta Lubański",
+    "url": "https://iegib.powiatluban.pl/luban-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1611": {
+    "name": "Starosta Powiatu Strzeleckiego",
+    "url": "https://mapy.powiatstrzelecki.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1204": {
+    "name": "Starosta Dąbrowski",
+    "url": "https://dabrowski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0406": {
+    "name": "Starosta Powiatu Grudziądzkiego",
+    "url": "https://wms.powiatgrudziadzki.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0402": {
+    "name": "Starosta Powiatu Brodnickiego",
+    "url": "https://mapa.brodnica.com.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3061": {
+    "name": "Prezydent Miasta Kalisza",
+    "url": "https://ikerg.um.kalisz.pl/kalisz-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1421": {
+    "name": "Starosta Pruszkowski",
+    "url": "https://wms.epodgik.pl/cgi-bin/pruszkow",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0663": {
+    "name": "Prezydent Miasta Lublin",
+    "url": "https://gis.lublin.eu/opendata/wfs",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1807": {
+    "name": "Starosta Krośnieński",
+    "url": "https://krosnienski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2808": {
+    "name": "Starosta Powiatu Kętrzyńskiego",
+    "url": "https://powiatketrzynski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0604": {
+    "name": "Starosta Hrubieszowski",
+    "url": "https://hrubieszow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1202": {
+    "name": "Starosta Powiatu Brzeskiego",
+    "url": "https://brzesko.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0661": {
+    "name": "Prezydent Miasta Biała Podlaska",
+    "url": "http://bialapodlaska.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2411": {
+    "name": "Starosta Powiatu Raciborskiego",
+    "url": "https://raciborz.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2263": {
+    "name": "Prezydent Miasta Słupska",
+    "url": "https://wms.slupsk.eu/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2477": {
+    "name": "Prezydent Miasta Tychy",
+    "url": "https://geowms.umtychy.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0223": {
+    "name": "Starosta Powiatu Wrocławskiego",
+    "url": "https://wms.wrosip.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0219": {
+    "name": "Starosta Świdnicki",
+    "url": "https://swidnicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1862": {
+    "name": "Prezydent Miasta Przemyśla",
+    "url": "https://przemysl.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0264": {
+    "name": "Prezydent Wrocławia",
+    "url": "https://iwms.zgkikm.wroc.pl/wroclaw-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1212": {
+    "name": "Starosta Olkuski",
+    "url": "https://olkuski.webewid.pl:4434/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3064": {
+    "name": "Prezydent Miasta Poznania",
+    "url": "https://portal.geopoz.poznan.pl/wmsegib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0262": {
+    "name": "Prezydent Miasta Legnicy",
+    "url": "https://wms.legnica.eu/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1219": {
+    "name": "Starosta Wielicki",
+    "url": "https://wielicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1006": {
+    "name": "Starosta Łódzki Wschodni",
+    "url": "https://lodzkiwschodni.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0215": {
+    "name": "Starosta Powiatu Oławskiego",
+    "url": "https://ewid.starostwo.olawa.pl:4444/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1419": {
+    "name": "Starosta Płocki",
+    "url": "https://powiat-plock.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1015": {
+    "name": "Starosta Powiatu Skierniewickiego",
+    "url": "https://powiat-skierniewice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2814": {
+    "name": "Starosta Olsztyński",
+    "url": "https://powiatolsztynski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1001": {
+    "name": "Starosta Bełchatowski",
+    "url": "http://belchatow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1218": {
+    "name": "Starosta Wadowicki",
+    "url": "https://wadowicki.webewid.pl:20443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2815": {
+    "name": "Starosta Ostródzki",
+    "url": "https://ostroda.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2806": {
+    "name": "Starosta Powiatu Giżyckiego",
+    "url": "https://wms.epodgik.pl/cgi-bin/gizycko",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0418": {
+    "name": "Starosta Włocławski",
+    "url": "https://wloclawek.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0614": {
+    "name": "Starosta Powiatu Puławskiego",
+    "url": "https://pulawy.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2817": {
+    "name": "Starosta Powiatu Szczycieńskiego",
+    "url": "http://szczytno.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3213": {
+    "name": "Starosta Sławieński",
+    "url": "https://slawienski.webewid.pl:4443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3001": {
+    "name": "Starosta Chodzieski",
+    "url": "https://wms-geo.powiat-chodzieski.pl/chodziez-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0804": {
+    "name": "Starosta Powiatu Nowosolskiego",
+    "url": "https://wms.powiat-nowosolski.pl/nowasol-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2818": {
+    "name": "Starosta Gołdapski",
+    "url": "https://powiatgoldap.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1203": {
+    "name": "Starosta Chrzanowski",
+    "url": "https://chrzanowski.webewid.pl:22443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2810": {
+    "name": "Starosta Mrągowski",
+    "url": "https://wms.epodgik.pl/cgi-bin/mragowo",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2014": {
+    "name": "Starosta Powiatu Zambrowskiego",
+    "url": "https://powiatzambrowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2807": {
+    "name": "Starosta Powiatu Iławskiego",
+    "url": "https://ilawa.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2805": {
+    "name": "Starosta Ełcki",
+    "url": "https://powiatelk.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2861": {
+    "name": "Prezydent Miasta Elbląg",
+    "url": "https://wms.geodezja.elblag.eu/elblag-wms",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2819": {
+    "name": "Starosta Węgorzewski",
+    "url": "https://wms.epodgik.pl/cgi-bin/wegorzewo",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0225": {
+    "name": "Starosta Zgorzelecki",
+    "url": "https://iegib.powiat.zgorzelec.pl/zgorzelec-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0608": {
+    "name": "Starosta Lubartowski",
+    "url": "https://powiatlubartowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2606": {
+    "name": "Starosta Opatowski",
+    "url": "http://opatow.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2802": {
+    "name": "Starosta Braniewski",
+    "url": "https://powiat-braniewo.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2414": {
+    "name": "Starosta Bieruńsko-Lędziński",
+    "url": "https://sbl.webewid.pl:8443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3218": {
+    "name": "Starosta Łobeski",
+    "url": "https://wms.powiatlobeski.pl/lobez-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3204": {
+    "name": "Starosta Goleniowski",
+    "url": "https://goleniowski.webewid.pl:6443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0413": {
+    "name": "Starosta Sępoleński",
+    "url": "https://sepolenski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2801": {
+    "name": "Starosta Powiatu Bartoszyckiego",
+    "url": "https://powiatbartoszyce.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2476": {
+    "name": "Prezydent Miasta Świętochłowice",
+    "url": "https://swietochlowice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0610": {
+    "name": "Starosta Powiatu Łęczyńskiego",
+    "url": "https://leczna.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2813": {
+    "name": "Starosta Olecki",
+    "url": "http://olecko.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2462": {
+    "name": "Prezydent Bytomia",
+    "url": "https://iwms.um.bytom.pl/bytom-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3217": {
+    "name": "Starosta Wałecki",
+    "url": "https://walecki.webewid.pl:4434/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2262": {
+    "name": "Prezydent Miasta Gdyni",
+    "url": "https://pc73.miasto.gdynia.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2212": {
+    "name": "Starosta Powiatu Słupskiego",
+    "url": "https://wms.powiat.slupsk.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2465": {
+    "name": "Prezydent Miasta Dąbrowa Górnicza",
+    "url": "https://geoportal-wms.dg.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0662": {
+    "name": "Prezydent Miasta Chełm",
+    "url": "https://wms.epodgik.pl/cgi-bin/mchelm",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3203": {
+    "name": "Starosta Drawski",
+    "url": "https://drawski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2610": {
+    "name": "Starosta Skarżyski",
+    "url": "http://skarzysko.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1004": {
+    "name": "Starosta Łęczycki",
+    "url": "https://leczycki.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0609": {
+    "name": "Starosta Powiatu Lubelskiego",
+    "url": "https://powiatlubelski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2809": {
+    "name": "Starosta Lidzbarski",
+    "url": "https://powiatlidzbarski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0612": {
+    "name": "Starosta Powiatu Opolskiego",
+    "url": "https://opolelubelskie.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0401": {
+    "name": "Starosta Aleksandrowski",
+    "url": "https://mapa.aleksandrow.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1217": {
+    "name": "Starosta Tatrzański",
+    "url": "https://tatrzanski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1603": {
+    "name": "Starosta Kędzierzyńsko-Kozielski",
+    "url": "https://ikerg.geo.powiat.kedzierzyn-kozle.pl/kedzierzynkozle-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0212": {
+    "name": "Starosta Lwówecki",
+    "url": "https://ikerg.powiatlwowecki.pl/lwowekslaski-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3214": {
+    "name": "Starosta Stargardzki",
+    "url": "https://ikerg2.powiatstargardzki.eu/stargard-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3201": {
+    "name": "Starosta Białogardzki",
+    "url": "https://bialogardzki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2609": {
+    "name": "Starosta Sandomierski",
+    "url": "https://sandomierz.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3209": {
+    "name": "Starosta Koszaliński",
+    "url": "https://koszalinski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3009": {
+    "name": "Starosta Kolski",
+    "url": "https://ikerg.starostwokolskie.pl/powiatkolski-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3263": {
+    "name": "Prezydent Miasta Świnoujście",
+    "url": "https://geo-wms.um.swinoujscie.pl/swinoujscie",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0207": {
+    "name": "Starosta Kamiennogórski",
+    "url": "https://wms.kamienna-gora.pl/kamiennagora-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1408": {
+    "name": "Starosta Powiatu Legionowskiego",
+    "url": "http://powiat-legionowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3212": {
+    "name": "Starosta Pyrzycki",
+    "url": "https://ikerg.pyrzyce.pl/pyrzyce-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1213": {
+    "name": "Starosta Oświęcimski",
+    "url": "https://oswiecimski.webewid.pl:4422/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1432": {
+    "name": "Starosta Warszawski Zachodni",
+    "url": "https://wms.pwz.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3262": {
+    "name": "Prezydent Miasta Szczecin",
+    "url": "https://wms.e-osrodek.szczecin.pl/szczecin-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0201": {
+    "name": "Starosta Bolesławiecki",
+    "url": "https://geoportal.powiatboleslawiecki.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2409": {
+    "name": "Starosta Myszkowski",
+    "url": "https://imapa.powiatmyszkowski.pl/myszkow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0222": {
+    "name": "Starosta Wołowski",
+    "url": "https://wolowski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0806": {
+    "name": "Starosta Strzelecko-Drezdenecki",
+    "url": "https://fsd.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0810": {
+    "name": "Starosta Żagański",
+    "url": "https://zaganski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2467": {
+    "name": "Prezydent Miasta Jastrzębie-Zdrój",
+    "url": "https://jastrzebie.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3013": {
+    "name": "Starosta Leszczyński",
+    "url": "https://leszczynski.webewid.pl:543/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0801": {
+    "name": "Starosta Gorzowski",
+    "url": "https://powiatgorzowski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3202": {
+    "name": "Starosta Choszczeński",
+    "url": "https://ikerg.geopowiatchoszczno.pl/choszczno-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1463": {
+    "name": "Prezydent Miasta Radomia",
+    "url": "https://ikerg.modgik.radom.pl/radom-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3017": {
+    "name": "Starosta Ostrowski",
+    "url": "https://ikerg.powiat-ostrowski.pl/ostrow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3208": {
+    "name": "Starosta Kołobrzeski",
+    "url": "https://kolobrzeski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2007": {
+    "name": "Starosta Łomżyński",
+    "url": "https://lomzynski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0606": {
+    "name": "Starosta Powiatu Krasnostawskiego",
+    "url": "https://powiatkrasnostawski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3014": {
+    "name": "Starosta Międzychodzki",
+    "url": "https://wms.epodgik.pl/cgi-bin/miedzychod",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1061": {
+    "name": "Prezydent Miasta Łodzi",
+    "url": "https://igeodeta.log.lodz.pl/cgi-bin/lodz-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0226": {
+    "name": "Starosta Złotoryjski",
+    "url": "https://wms.powiat-zlotoryja.pl/zlotoryja-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1404": {
+    "name": "Starosta Gostyniński",
+    "url": "https://gostynin.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3022": {
+    "name": "Starosta Rawicki",
+    "url": "https://ikerg.powiatrawicki.pl/rawicz-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2413": {
+    "name": "Starosta Tarnogórski",
+    "url": "https://geodane.tarnogorski.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3062": {
+    "name": "Prezydent Miasta Konina",
+    "url": "https://ikerg.kosit.konin.eu/konin-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1864": {
+    "name": "Prezydent Miasta Tarnobrzega",
+    "url": "https://tarnobrzeg.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3010": {
+    "name": "Starosta Koniński",
+    "url": "http://konin.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3012": {
+    "name": "Starosta Powiatu Krotoszyńskiego",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3012",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0620": {
+    "name": "Starosta Zamojski",
+    "url": "https://powiatzamojski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3007": {
+    "name": "Starosta Kaliski",
+    "url": "https://kalisz.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3029": {
+    "name": "Starosta Powiatu Wolsztyńskiego",
+    "url": "https://ikerg.powiatwolsztyn.pl/wolsztyn-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1427": {
+    "name": "Starosta Sierpecki",
+    "url": "https://sierpc.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1428": {
+    "name": "Starosta Sochaczewski",
+    "url": "https://sochaczew.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2214": {
+    "name": "Starosta Tczewski",
+    "url": "https://wms.powiat.tczew.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3023": {
+    "name": "Starosta Słupecki",
+    "url": "https://ikerg.powiat-slupca.pl/slupca-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2478": {
+    "name": "Prezydent Miasta Zabrze",
+    "url": "https://wms.miastozabrze.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2466": {
+    "name": "Prezydent Miasta Gliwice",
+    "url": "https://wmswfs-geodezja.gliwice.eu/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3024": {
+    "name": "Starosta Powiatu Szamotulskiego",
+    "url": "https://wms.szamotuly.com.pl/szamotuly-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0605": {
+    "name": "Starosta Janowski",
+    "url": "https://janow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1803": {
+    "name": "Starosta Powiatu Dębickiego",
+    "url": "https://debica.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2604": {
+    "name": "Starosta Powiatu Kieleckiego",
+    "url": "https://geoportal.powiat.kielce.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3026": {
+    "name": "Starosta Śremski",
+    "url": "https://wms.powiat-srem.pl/srem-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3027": {
+    "name": "Starosta Powiatu Tureckiego",
+    "url": "https://iegib.powiat.turek.pl/cgi-bin/turek_egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3005": {
+    "name": "Starosta Grodziski",
+    "url": "https://ikerg.pgw.pl/grodziskwlkp-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3015": {
+    "name": "Starosta Nowotomyski",
+    "url": "https://wms.powiatnowotomyski.pl/nowytomysl-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0209": {
+    "name": "Starosta Legnicki",
+    "url": "https://legnicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2473": {
+    "name": "Prezydent Miasta Rybnika",
+    "url": "https://geodeta.gpue.rybnik.eu/rybnik-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2612": {
+    "name": "Starosta Staszowski",
+    "url": "https://staszow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1438": {
+    "name": "Starosta Powiatu Żyrardowskiego",
+    "url": "https://ikerg.powiat-zyrardowski.pl/zyrardow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3261": {
+    "name": "Prezydent Miasta Koszalina",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/3261",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2862": {
+    "name": "Prezydent Olsztyna",
+    "url": "https://webewidwms.olsztyn.eu/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2202": {
+    "name": "Starosta Chojnicki",
+    "url": "https://chojnicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3063": {
+    "name": "Prezydent Miasta Leszna",
+    "url": "https://imapa.leszno.pl/mleszno-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2474": {
+    "name": "Prezydent Miasta Siemianowice Śląskie",
+    "url": "https://siemianowice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1414": {
+    "name": "Starosta Powiatu Nowodworskiego",
+    "url": "http://nowodworski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1420": {
+    "name": "Starosta Płoński",
+    "url": "https://plonski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1422": {
+    "name": "Starosta Przasnyski",
+    "url": "https://przasnysz.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1005": {
+    "name": "Starosta Łowicki",
+    "url": "http://lowicz.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0218": {
+    "name": "Starosta Średzki",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/0218",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1435": {
+    "name": "Starosta Powiatu Wyszkowskiego",
+    "url": "http://powiat-wyszkowski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1405": {
+    "name": "Starosta Grodziski",
+    "url": "https://imapa.podgik-grodziskm.pl/grodziski-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1821": {
+    "name": "Starosta Powiatu Leskiego",
+    "url": "https://lesko.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0203": {
+    "name": "Starosta Głogowski",
+    "url": "https://glogow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1063": {
+    "name": "Prezydent Miasta Skierniewice",
+    "url": "https://skierniewice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1007": {
+    "name": "Starosta Powiatu Opoczyńskiego",
+    "url": "https://opoczno.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0202": {
+    "name": "Starosta Dzierżoniowski",
+    "url": "https://geoportal.pow.dzierzoniow.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3031": {
+    "name": "Starosta Złotowski",
+    "url": "https://ikerg.zlotow-powiat.pl/zlotow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2210": {
+    "name": "Starosta Nowodworski",
+    "url": "https://nowodworski.webewid.pl:4444/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2415": {
+    "name": "Starosta Wodzisławski",
+    "url": "https://imapa.powiatwodzislawski.pl/wodzislaw-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2009": {
+    "name": "Starosta Powiatu Sejneńskiego",
+    "url": "https://sejny.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1464": {
+    "name": "Prezydent Miasta Siedlce",
+    "url": "https://siedlce.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1424": {
+    "name": "Starosta Pułtuski",
+    "url": "https://powiatpultuski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1425": {
+    "name": "Starosta Radomski",
+    "url": "https://radom.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3008": {
+    "name": "Starosta Powiatu Kępińskiego",
+    "url": "https://ikerg.powiatkepno.pl/kepno-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3028": {
+    "name": "Starosta Wągrowiecki",
+    "url": "https://ikerg.wagrowiec.pl/wagrowiec-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2816": {
+    "name": "Starosta Piski",
+    "url": "https://powiatpiski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0208": {
+    "name": "Starosta Kłodzki",
+    "url": "https://geoportal.powiat.klodzko.pl/ggp",
+    "version": "2.0.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3210": {
+    "name": "Starosta Myśliborski",
+    "url": "https://wms.powiatmysliborski.com.pl/mysliborz-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0211": {
+    "name": "Starosta Lubiński",
+    "url": "https://lubinski-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0205": {
+    "name": "Starosta Jaworski",
+    "url": "https://jawor.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1416": {
+    "name": "Starosta Ostrowski",
+    "url": "https://ostrowmaz.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2264": {
+    "name": "Prezydent Miasta Sopotu",
+    "url": "https://wms.um.sopot.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3016": {
+    "name": "Starosta Obornicki",
+    "url": "https://ikerg.powiatobornicki.pl/oborniki-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3004": {
+    "name": "Starosta Gostyński",
+    "url": "https://imapa.powiat.gostyn.pl/gostyn-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1205": {
+    "name": "Starosta Powiatu Gorlickiego",
+    "url": "https://gorlicki.webewid.pl:4443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0214": {
+    "name": "Starosta Oleśnicki",
+    "url": "https://olesnicki.webewid.pl:4444/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2215": {
+    "name": "Starosta Wejherowski",
+    "url": "https://wms.epodgik.pl/cgi-bin/wejherowo",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3211": {
+    "name": "Starosta Policki",
+    "url": "https://wgkik.policki.pl/police-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0607": {
+    "name": "Starosta Kraśnicki",
+    "url": "https://krasnicki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3216": {
+    "name": "Starosta Świdwiński",
+    "url": "https://swidwinski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1409": {
+    "name": "Starosta Lipski",
+    "url": "https://powiatlipsko.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0224": {
+    "name": "Starosta Ząbkowicki",
+    "url": "https://zabkowicki.webewid.pl:444/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2470": {
+    "name": "Prezydent Miasta Mysłowice",
+    "url": "https://wms.myslowice.pl/myslowice-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3206": {
+    "name": "Starosta Powiatu Gryfińskiego",
+    "url": "https://gryfinski.webewid.pl:4439/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2464": {
+    "name": "Prezydent Miasta Częstochowy",
+    "url": "https://geoportal.czestochowa.pl/wfs2464_egib/Service.svc/get",
+    "version": "2.0.0",
+    "layer_buildings": "gmgml:budynki",
+    "layer_parcels": "gmgml:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2602": {
+    "name": "Starosta Powiatu Jędrzejowskiego",
+    "url": "https://jedrzejow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2006": {
+    "name": "Starosta Kolneński",
+    "url": "https://kolnenski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0221": {
+    "name": "Starosta Wałbrzyski",
+    "url": "https://walbrzyski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2013": {
+    "name": "Starosta Wysokomazowiecki",
+    "url": "http://wysokomazowiecki.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1436": {
+    "name": "Starosta Zwoleński",
+    "url": "https://zwolenpowiat.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0603": {
+    "name": "Starosta Chełmski",
+    "url": "https://chelmski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2406": {
+    "name": "Starosta Kłobucki",
+    "url": "https://powiatklobucki.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2261": {
+    "name": "Prezydent Miasta Gdańska",
+    "url": "https://ewid-wms.gdansk.gda.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1417": {
+    "name": "Starosta Powiatu Otwockiego",
+    "url": "https://powiat-otwocki.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3207": {
+    "name": "Starosta Kamieński",
+    "url": "https://ikerg.powiatkamienski.pl/kamien",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0861": {
+    "name": "Prezydent Miasta Gorzowa Wielkopolskiego",
+    "url": "https://geoportal.wms.um.gorzow.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1423": {
+    "name": "Starosta Przysuski",
+    "url": "http://przysucha.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1462": {
+    "name": "Prezydent Miasta Płocka",
+    "url": "https://wms-ggk.plock.eu:4443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2003": {
+    "name": "Starosta Bielski",
+    "url": "http://powiatbielski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1418": {
+    "name": "Starosta Piaseczyński",
+    "url": "https://wms.epodgik.pl/cgi-bin/piaseczno",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1261": {
+    "name": "Prezydent Miasta Krakowa",
+    "url": "https://geodezja.eco.um.krakow.pl/krakow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0602": {
+    "name": "Starosta Biłgorajski",
+    "url": "https://bilgorajski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "241602_1": {
+    "name": "Prezydent Miasta Zawiercie",
+    "url": "https://wms.zawiercie.eu/cgi-bin/zawiercie-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1016": {
+    "name": "Starosta Tomaszowski",
+    "url": "https://powiat-tomaszowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0204": {
+    "name": "Starosta Górowski",
+    "url": "https://gora.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0217": {
+    "name": "Starosta Strzeliński",
+    "url": "https://strzelinski-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2407": {
+    "name": "Starosta Lubliniecki",
+    "url": "http://wms.lubliniec.starostwo.gov.pl/lubliniec-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2804": {
+    "name": "Starosta Powiatu Elbląskiego",
+    "url": "https://ikerg.powiat.elblag.pl/elblaski-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2010": {
+    "name": "Starosta Powiatu Siemiatyckiego",
+    "url": "https://geoportal.siemiatycze.pl/siemiatycze-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1008": {
+    "name": "Starosta Pabianicki",
+    "url": "https://pabianice.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2063": {
+    "name": "Prezydent Miasta Suwałk",
+    "url": "https://geoportal.um.suwalki.pl/ggp",
+    "version": "1.1.0",
+    "layer_buildings": "budynki",
+    "layer_parcels": "dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2004": {
+    "name": "Starosta Grajewski",
+    "url": "http://starostwograjewo.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1410": {
+    "name": "Starosta Powiatu Łosickiego",
+    "url": "https://losice.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3205": {
+    "name": "Starosta Gryficki",
+    "url": "https://ikerg.podgikgryfice.pl/gryfice-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2011": {
+    "name": "Starosta Sokólski",
+    "url": "https://powiatsokolski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2008": {
+    "name": "Starosta Moniecki",
+    "url": "https://monki.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0664": {
+    "name": "Prezydent Miasta Zamość",
+    "url": "https://zamosc.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2401": {
+    "name": "Starosta Będziński",
+    "url": "https://ikerg.powiat.bedzin.pl/bedzin-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "121207_3": {
+    "name": "Burmistrz Miasta i Gminy Wolbrom",
+    "url": "https://wolbrom.webewid.pl:4444/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1214": {
+    "name": "Starosta Proszowicki",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1214",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2005": {
+    "name": "Starosta Hajnowski",
+    "url": "http://hajnowka.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1403": {
+    "name": "Starosta Powiatu Garwolińskiego",
+    "url": "https://garwolinski.geoportal2.pl:8443/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0415": {
+    "name": "Starosta Toruński",
+    "url": "https://torunski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0611": {
+    "name": "Starosta Łukowski",
+    "url": "https://powiatlukowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1426": {
+    "name": "Starosta Siedlecki",
+    "url": "https://powiatsiedlecki.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1209": {
+    "name": "Starosta Powiatu Myślenickiego",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1209",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2012": {
+    "name": "Starosta Suwalski",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2012",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0803": {
+    "name": "Starosta Międzyrzecki",
+    "url": "https://powiat-miedzyrzecki.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0812": {
+    "name": "Starosta Wschowski",
+    "url": "http://wschowa.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2203": {
+    "name": "Starosta Człuchowski",
+    "url": "https://wms.czluchow.org.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0616": {
+    "name": "Starosta Powiatu Ryckiego",
+    "url": "https://ryki.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2608": {
+    "name": "Starosta Pińczowski",
+    "url": "https://pinczow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0615": {
+    "name": "Starosta Radzyński",
+    "url": "http://powiatradzynski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1430": {
+    "name": "Starosta Szydłowiecki",
+    "url": "https://szydlowiecpowiat.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1413": {
+    "name": "Starosta Powiatu Mławskiego",
+    "url": "https://powiatmlawski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1215": {
+    "name": "Starosta Suski",
+    "url": "https://powiatsuski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1019": {
+    "name": "Starosta Zduńskowolski",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/1019",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2209": {
+    "name": "Starosta Malborski",
+    "url": "https://malborski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0807": {
+    "name": "Starosta Sulęciński",
+    "url": "https://sulecin.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1003": {
+    "name": "Starosta Łaski",
+    "url": "https://lask.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1010": {
+    "name": "Starosta Powiatu Piotrkowskiego",
+    "url": "https://piotrkow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1013": {
+    "name": "Starosta Rawski",
+    "url": "https://wms.powiatrawski.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0601": {
+    "name": "Starosta Powiatu Bialskiego",
+    "url": "https://powiatbialski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0613": {
+    "name": "Starosta Parczewski",
+    "url": "http://parczew.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2206": {
+    "name": "Starosta Kościerski",
+    "url": "https://koscierski-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2208": {
+    "name": "Starosta Powiatu Lęborskiego",
+    "url": "https://leborski.webewid.pl:44443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1415": {
+    "name": "Starosta Ostrołęcki",
+    "url": "http://powiatostrolecki.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0619": {
+    "name": "Starosta Włodawski",
+    "url": "https://wms.epodgik.pl/cgi-bin/wlodawa",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1406": {
+    "name": "Starosta Grójecki",
+    "url": "https://grojec.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1211": {
+    "name": "Starosta Nowotarski",
+    "url": "https://nowotarski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0617": {
+    "name": "Starosta Świdnicki",
+    "url": "https://powiatswidnik.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2211": {
+    "name": "Starosta Powiatu Puckiego",
+    "url": "https://pdp.puck.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1062": {
+    "name": "Prezydent Miasta Piotrków Trybunalski",
+    "url": "https://ikerg.piotrkow.pl/piotrkow-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1002": {
+    "name": "Starosta Kutnowski",
+    "url": "https://powiatkutno.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2207": {
+    "name": "Starosta Kwidzyński",
+    "url": "https://kwidzynski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1433": {
+    "name": "Starosta Węgrowski",
+    "url": "https://wms.epodgik.pl/cgi-bin/wegrow",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2001": {
+    "name": "Starosta Augustowski",
+    "url": "https://augustowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2216": {
+    "name": "Starosta Sztumski",
+    "url": "https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyEwidencjiGruntow/2216",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2204": {
+    "name": "Starosta Powiatu Gdańskiego",
+    "url": "https://gdanski-wms.webewid.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1461": {
+    "name": "Prezydent Miasta Ostrołęki",
+    "url": "https://ostroleka.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1429": {
+    "name": "Starosta Sokołowski",
+    "url": "https://powiat-sokolowski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2404": {
+    "name": "Starosta Powiatu Częstochowskiego",
+    "url": "https://czestochowa.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1012": {
+    "name": "Starosta Powiatu Radomszczańskiego",
+    "url": "https://radomszczanski.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0265": {
+    "name": "Prezydent Miasta Wałbrzycha",
+    "url": "https://walbrzych-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2603": {
+    "name": "Starosta Powiatu Kazimierskiego",
+    "url": "https://kazimierzaw.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2405": {
+    "name": "Starosta Gliwicki",
+    "url": "https://gliwicki.webewid.pl:4443/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2410": {
+    "name": "Starosta Powiatu Pszczyńskiego",
+    "url": "https://pszczynski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1020": {
+    "name": "Starosta Zgierski",
+    "url": "https://zgierski-wms.webewid.pl:743/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1262": {
+    "name": "Starosta Nowosądecki",
+    "url": "https://wms.nowosadecki.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1210": {
+    "name": "Starosta Nowosądecki",
+    "url": "https://wms.nowosadecki.pl/iip/ows",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1402": {
+    "name": "Starosta Ciechanowski",
+    "url": "https://ciechanow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "240301_1": {
+    "name": "Burmistrz Miasta Cieszyna",
+    "url": "https://miastocieszyn.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1201": {
+    "name": "Starosta Powiatu Bocheńskiego",
+    "url": "https://bochenski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1009": {
+    "name": "Starosta Powiatu Pajęczańskiego",
+    "url": "https://pajeczno.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1011": {
+    "name": "Starosta Poddębicki",
+    "url": "http://poddebice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1407": {
+    "name": "Starosta Kozienicki",
+    "url": "https://kozienicepowiat.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "3011": {
+    "name": "Starosta Kościański",
+    "url": "https://wms.powiatkoscian.pl/koscian-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1018": {
+    "name": "Starosta Wieruszowski",
+    "url": "https://wieruszow.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1263": {
+    "name": "Prezydent Miasta Tarnowa",
+    "url": "https://wms.umt.tarnow.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2412": {
+    "name": "Starosta Rybnicki",
+    "url": "https://rybnik.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0618": {
+    "name": "Starosta Tomaszowski",
+    "url": "https://tomaszowlubelski.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2417": {
+    "name": "Starosta Żywiecki",
+    "url": "https://zywiecki-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1208": {
+    "name": "Starosta Miechowski",
+    "url": "https://miechow.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2201": {
+    "name": "Starosta Bytowski",
+    "url": "https://bytowski.webewid.pl:4433/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2475": {
+    "name": "Prezydent Miasta Sosnowiec",
+    "url": "https://sosnowiec.webewid.pl:9443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1021": {
+    "name": "Starosta Powiatu Brzezińskiego",
+    "url": "http://brzeziny.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1014": {
+    "name": "Starosta Sieradzki",
+    "url": "https://sieradz.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1434": {
+    "name": "Starosta Powiatu Wołomińskiego",
+    "url": "https://wms.epodgik.pl/cgi-bin/wolomin",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1216": {
+    "name": "Starosta Tarnowski",
+    "url": "https://webewid.powiat.tarnow.pl:20443/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2468": {
+    "name": "Prezydent Miasta Jaworzna",
+    "url": "https://jaworzno-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "1017": {
+    "name": "Starosta Wieluński",
+    "url": "https://wielun.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "240204_3": {
+    "name": "Burmistrz Czechowic-Dziedzic",
+    "url": "http://czechowice.geoportal2.pl/map/geoportal/wfse.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2613": {
+    "name": "Starosta Powiatu Włoszczowskiego",
+    "url": "https://wloszczowa.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0805": {
+    "name": "Starosta Słubicki",
+    "url": "https://slubice.geoportal2.pl/map/geoportal/wfs.php",
+    "version": "2.0.0",
+    "layer_buildings": "ewns:budynki",
+    "layer_parcels": "ewns:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "0802": {
+    "name": "Starosta Krośnieński",
+    "url": "https://wms.powiatkrosnienski.pl/krosno-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2416": {
+    "name": "Starosta Zawierciański",
+    "url": "https://ikerg.zawiercie.powiat.pl/powiatzawiercianski-egib",
+    "version": "2.0.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  },
+  "2062": {
+    "name": "Prezydent Miasta Łomża",
+    "url": "https://lomzynski-wms.webewid.pl/iip/ows",
+    "version": "1.1.0",
+    "layer_buildings": "ms:budynki",
+    "layer_parcels": "ms:dzialki",
+    "crs": "EPSG:2180"
+  }
+}
